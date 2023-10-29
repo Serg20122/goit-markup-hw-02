@@ -3,7 +3,7 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-}
+
 
 /* Header */
 .logo {
@@ -15,6 +15,7 @@ body {
     line-height: 21px;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    line-height: 1.17;
 }
 
 .logo_studio {
@@ -39,7 +40,7 @@ body {
     font-style: normal
 }
 
-.address_mailto {
+.address_contakt {
     color: #434455;
     font-size: 16px;
     font-style: normal;
@@ -51,4 +52,5 @@ body {
 .address .address_contakt:hover,
 .address .address_contakt:focus {
     color: #404bbf;
+}
 }
